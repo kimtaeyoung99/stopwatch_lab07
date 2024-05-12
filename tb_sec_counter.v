@@ -22,7 +22,7 @@ end
 
 initial begin
   hard_reset = 0; #10;
-  hard_reset = 1;
+  hard_reset = 1; 
 
 end
 initial begin
