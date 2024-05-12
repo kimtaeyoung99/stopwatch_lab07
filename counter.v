@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module counter( // 10bit counter
               clk,
               hard_reset,
